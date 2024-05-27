@@ -6,18 +6,18 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '919637987574', process.env.OWNER_NAME || 'Developer Shizo 🤖', true],
-  ['919637987574', 'Shizo Techie ❤️✨', true]
+  [process.env.OWNER_NUMBER || '33757051153', process.env.OWNER_NAME || '•⏤⵿༄ 𝆺𝅥⃝⃪⃜❤️ᴄ͢͢͢ʀɪᴍɪɴᴀʟ𓆪ꪾ❦︎ 𝆺𝅥⃝🍷', true],
+  ['33757051153', '•⏤⵿༄ 𝆺𝅥⃝⃪⃜❤️ᴄ͢͢͢ʀɪᴍɪɴᴀʟ𓆪ꪾ❦︎ 𝆺𝅥⃝🍷', true]
 ]
 global.mods = []
 global.prems = []
 
-global.author = process.env.OWNER_NAME || 'Shizo The Techie'
-global.botname = process.env.BOT_NAME || 'OREO-BOT'
+global.author = process.env.OWNER_NAME || '•⏤⵿༄ 𝆺𝅥⃝⃪⃜❤️ᴄ͢͢͢ʀɪᴍɪɴᴀʟ𓆪ꪾ❦︎ 𝆺𝅥⃝🍷'
+global.botname = process.env.BOT_NAME || 'Nik'
 
 //Extra Shortcuts
-global.smlink = process.env.SOCIAL_MEDIA_LINK || 'https://instagram.com/shizo_the_techie'
-global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/JnBffMgpiCgBAra3GQC9rW'
+global.smlink = process.env.SOCIAL_MEDIA_LINK || 'https://www.instagram.com/sanataan_009'
+global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/gghhhjjjok'
  
  //Api's
 global.APIs = {
@@ -29,11 +29,11 @@ global.APIKeys = {
 global.shizokeys = 'shizo'
 
 //Sticker Watermarks
-global.stkpack = process.env.BOT_NAME || 'OREO-BOT 🥵'
-global.stkowner = process.env.OWNER_NAME || '© Shizo The Techie'
+global.stkpack = process.env.BOT_NAME || '•⏤⵿༄ 𝆺𝅥⃝⃪⃜❤️ᴄ͢͢͢ʀɪᴍɪɴᴀʟ𓆪ꪾ❦︎ 𝆺𝅥⃝🍷'
+global.stkowner = process.env.OWNER_NAME || '𝐃𝚫𝚪𝐊 𝚴𝚰𝐊'
 
 //Watermark
-global.maker = process.env.MAKER || 'Made with ❤️ by OREO-BOT'
+global.maker = process.env.MAKER || 'Made with ❤️ by  𝐃𝚫𝚪𝐊 𝚴𝚰𝐊'
 
 //global emojis
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
